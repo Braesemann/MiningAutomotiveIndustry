@@ -1,4 +1,4 @@
-# Mining the Automotive Industry – <br> A Network Analysis of Manufacturer Web Pages
+# Mining the Automotive Industry: <br> A Network Analysis of Manufacturer Web Pages
 
 Code and data accompanying the work to produce figures of the paper 'Mining the Automotive Industry – A Network Analysis of Manufacturer Web Pages' (**link to paper will follow**). 
 
