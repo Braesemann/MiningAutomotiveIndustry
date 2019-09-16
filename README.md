@@ -1,6 +1,6 @@
-# Mining the Automotive Industry: <br> A Network Analysis of Manufacturer Web Pages
+# Mining the Automotive Industry: <br> A Network Analysis of Corporate Positioning and Technological Trends
 
-Code and data accompanying the work to produce figures of the paper 'Mining the Automotive Industry – A Network Analysis of Manufacturer Web Pages' (**link to paper will follow**). 
+Code and data accompanying the work to produce figures of the paper 'Mining the Automotive Industry – A Network Analysis of Corporate Positioning and Technological Trends' (**link to paper will follow**). 
 
 ## Description
 **Last modified:** September 2019 <br>
@@ -41,7 +41,7 @@ Please cite as follows
 ```
 @article{
 stoehr2019mining,
-title={Mining Automotive the Industry – A Network Analysis of Manufacturer Web Pages},
+title={Mining Automotive the Industry – A Network Analysis of Corporate Positioning and Technological Trends},
 author={Niklas Stoehr, Fabian Braesemann and Shi Zhou},
 booktitle={under review at Complex Networks 2019},
 year={2019},
