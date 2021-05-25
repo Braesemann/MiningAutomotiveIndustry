@@ -1,6 +1,6 @@
 # Mining the Automotive Industry: <br> A Network Analysis of Corporate Positioning and Technological Trends
 
-Code and data accompanying the work to produce figures of the paper 'Mining the Automotive Industry – A Network Analysis of Corporate Positioning and Technological Trends' (**link to paper will follow**). 
+Code and data accompanying the work to produce figures of the paper ['Mining the Automotive Industry – A Network Analysis of Corporate Positioning and Technological Trends'](https://doi.org/10.1007/978-3-030-40943-2_25). 
 
 ## Description
 **Last modified:** September 2019 <br>
